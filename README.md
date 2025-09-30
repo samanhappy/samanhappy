@@ -42,9 +42,9 @@ Selectly is an **AI-powered browser extension** that supercharges text selection
 
 | Category | Technologies |
 |---|---|
-| Languages | Go, TypeScript, Python |
-| Frameworks / Libraries | FastAPI, Next.js, React |
-| Infrastructure | Docker, Kubernetes, Cloud (AWS / GCP) |
+| Languages | Java, Go, TypeScript, Python |
+| Frameworks / Libraries | Spring Cloud, FastAPI, Next.js, React |
+| Infrastructure | Docker, Kubernetes |
 | Tools | Git, CI/CD, Automation Scripts |
 
 ---
@@ -58,7 +58,7 @@ Selectly is an **AI-powered browser extension** that supercharges text selection
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/samanhappy/samanhappy/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/samanhappy/samanhappy/blob/output/snake.gif)
 
 ---
 
