@@ -1,6 +1,6 @@
 # Hi there 👋 I'm **samanhappy**
 
-> A software engineer passionate about open source, AI infrastructure, and building impactful products.
+> A software engineer passionate about open source, AI infrastructure, and building beautiful and useful products.
 
 ---
 
