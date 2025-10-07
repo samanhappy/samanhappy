@@ -6,10 +6,10 @@
 
 ## 📊 GitHub Stats
 
-![samanhappy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=samanhappy&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanhappy&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=samanhappy&theme=radical)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=samanhappy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samanhappy&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanhappy&layout=compact&theme=default&hide_border=true" height="150" />
+</div>
 
 ---
 
