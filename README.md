@@ -1,4 +1,4 @@
-# Hi there 👋 I'm **samanhappy**
+# Hi there 👋 I'm **Saman**
 
 A software engineer passionate about open source, AI infrastructure, vibe coding, and building valuable products in public.
 
