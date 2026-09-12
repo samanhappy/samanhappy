@@ -4,5 +4,5 @@ A software engineer passionate about open source, AI infrastructure, vibe coding
 
 ## 🚀 Featured Products
 
-- [MCPHub](https://www.mcphub.app/): A unified hub for centralized management and dynamic organization of multiple MCP servers/APIs.
+- [MCPHub](https://www.mcphub.app/): An open-source, self-hosted MCP gateway and control plane for connecting, controlling, and operating MCP servers.
 - [Selectly](https://www.selectly.app/): An AI-powered text selection browser extension.  
